@@ -1,0 +1,25 @@
+{
+  "name": "swigig-example",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "swig": "git+https://github.com/miigwall/swigig.git"
+  },
+  "description": "An Example of Swigig Template Engine",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swigig",
+    "template",
+    "engine"
+  ],
+  "author": "",
+  "license": "ISC"
+}
